@@ -1,0 +1,30 @@
+{
+  "id": "1601578",
+  "name": "heima",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1105010",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "4579344",
+      "name": "校验",
+      "font_class": "xiaoyan",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "4924414",
+      "name": "校验",
+      "font_class": "xiaoyan1",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    }
+  ]
+}
